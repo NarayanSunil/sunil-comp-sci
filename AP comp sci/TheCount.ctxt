@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TheCount()
+comment1.params=
+comment1.target=java.lang.String\ getNumber()
+comment2.params=x
+comment2.target=void\ setNumber(int)
+numComments=3

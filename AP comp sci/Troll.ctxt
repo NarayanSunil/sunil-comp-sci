@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=x
+comment0.target=void\ collect(double)
+comment1.params=
+comment1.target=double\ myMoney()
+comment2.params=
+comment2.target=double\ treasury()
+comment3.params=
+comment3.target=void\ emptyTreasury()
+numComments=4
